@@ -1,6 +1,10 @@
 # ✊✋✌️ Stone Paper Scissors — A Simple JavaScript Project
 This is a basic Stone Paper Scissors game I built to get more comfortable with JavaScript. It was a fun way to practice conditional logic, randomization, and simple UI interaction.
 
+## 🌐 Live Demo 
+[Play it here](#)  
+https://aravindr-k.github.io/Stone-Paper-Scissors.github.io/
+
 ## 🧠 What I Learned
 - Using `Math.random()` for generating computer moves
 - Writing conditional logic to decide outcomes
